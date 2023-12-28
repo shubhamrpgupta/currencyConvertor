@@ -1,5 +1,9 @@
 # React + Vite
 
+![Screenshot 2023-12-28 181324](https://github.com/shubhamrpgupta/currencyConvertor/assets/144988807/d5aeb868-a481-4bdf-ab9a-e9d1e452593c)
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
